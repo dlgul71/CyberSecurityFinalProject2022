@@ -3,7 +3,7 @@
 ## Table of Contents
 - Exposed Services
 - Critical Vulnerabilities
-- Exploitation
+- Exploitations
 
 ### Exposed Services
 
