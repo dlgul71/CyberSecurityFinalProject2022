@@ -41,7 +41,9 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       - Identify the exploit used_ Michales password guessing
       - Include the command run_ssh michael@192.168.1.110
   - `flag2.txt`:
+  
   ![](finalprojectimages/flag2.png) 
+  
   hash value_
     - **Exploit Used**
       - Identify the exploit used_Michales password guessing
