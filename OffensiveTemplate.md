@@ -10,7 +10,7 @@
 Nmap scan results for each machine reveal the below services and OS details:
 
 ```bash
-$ nmap ... # TODO: Add command to Scan Target 1
+$ nmap -sV ip 192.168.1.1/24 
 ```
 ![](finalprojectimages/NMAP.png)
 
