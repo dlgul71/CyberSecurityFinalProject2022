@@ -11,8 +11,9 @@ Nmap scan results for each machine reveal the below services and OS details:
 
 ```bash
 $ nmap ... # TODO: Add command to Scan Target 1
-![](finalprojectimages/NMAP.png)
 ```
+![](finalprojectimages/NMAP.png)
+
 This scan identifies the services below as potential points of entry:
 - Target 1 192.168.1.110
   - Exposed Services open ssh. apache and samba
@@ -39,7 +40,9 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
     - **Exploit Used**
       - Identify the exploit used_ Michales password guessing
       - Include the command run_ssh michael@192.168.1.110
-  - `flag2.txt`:![](finalprojectimages/flag2.png) hash value_
+  - `flag2.txt`:
+  ![](finalprojectimages/flag2.png) 
+  hash value_
     - **Exploit Used**
       - Identify the exploit used_Michales password guessing
       - Include the command run ssh michael@192.168.1.110
