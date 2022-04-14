@@ -33,7 +33,9 @@ Include vulnerability scan results to prove the identified vulnerabilities._
 
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
 - Target 1
-  - `flag1.txt`:![](finalprojectimages/flag1.png) hash value_
+  - `flag1.txt`:
+  ![](finalprojectimages/flag1.png)
+  hash value_
     - **Exploit Used**
       - Identify the exploit used_ Michales password guessing
       - Include the command run_ssh michael@192.168.1.110
