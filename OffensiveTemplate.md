@@ -36,7 +36,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 - Target 1
   - `flag1.txt`:
   ![](finalprojectimages/flag1.png)
-  hash value_
+
     - **Exploit Used**
       - Identify the exploit used_ Michales password guessing
       - Include the command run_ssh michael@192.168.1.110
@@ -44,7 +44,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
   
   ![](finalprojectimages/flag2.png) 
   
-  hash value_
+
     - **Exploit Used**
       - Identify the exploit used_Michales password guessing
       - Include the command run ssh michael@192.168.1.110
